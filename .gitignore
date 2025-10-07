@@ -40,7 +40,6 @@ app.*.symbols
 app.*.map.json
 
 # Android related
-/android/
 /android/app/debug
 /android/app/profile
 /android/app/release
